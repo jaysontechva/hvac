@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JaysonR HVAC Solutions",
+  "description": "Professional HVAC services web application with AI-powered quote estimation and chatbot assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
